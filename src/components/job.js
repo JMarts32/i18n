@@ -25,6 +25,7 @@ const Job = (props) => {
           month='long'
           day='numeric'
           weekday='long'
+          hola 
         />
       </td>
       <td>
